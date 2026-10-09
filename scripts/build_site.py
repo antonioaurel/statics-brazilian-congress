@@ -189,7 +189,7 @@ def meta(page, prefix=""):
 def header(active):
     def nav(page, key):
         return f'<a class="btn{" on" if active==page or (active=="method" and page=="methodology") else ""}" href="{page}.html" data-i="{key}"></a>'
-    return f"""<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div><div class="byline"><span data-i="by"></span> Antonio Aureliano · <a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div><button class="btn themebtn" id="theme" onclick="toggleTheme()"></button></div>
+    return f"""<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div><div class="byline"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div><button class="btn themebtn" id="theme" onclick="toggleTheme()"></button></div>
 <span class="langs"><button class="btn" id="lang-pt" onclick="setLang('pt')">Português</button><button class="btn" id="lang-en" onclick="setLang('en')">English</button></span>
 <label id="regionlbl" style="{'' if active=='index' else 'display:none'}"><span data-i="region"></span>: <select id="uf"></select></label>
 </div>
