@@ -1,0 +1,217 @@
+uf,election,governor,party
+AC,1998,Jorge Viana,PT
+AC,2002,Jorge Viana,PT
+AC,2006,Binho Marques,PT
+AC,2010,Tião Viana,PT
+AC,2014,Tião Viana,PT
+AC,2018,Gladson Cameli,PP
+AC,2022,Gladson Cameli,PP
+AC,2026,Mailza Assis (PP) vs Alan Rick (REPUBLICANOS),PENDING
+AL,1998,Ronaldo Lessa,PSB
+AL,2002,Ronaldo Lessa,PSB
+AL,2006,Teotônio Vilela Filho,PSDB
+AL,2010,Teotônio Vilela Filho,PSDB
+AL,2014,Renan Filho,PMDB
+AL,2018,Renan Filho,MDB
+AL,2022,Paulo Dantas,MDB
+AL,2026,JHC,PSDB
+AP,1998,João Capiberibe,PSB
+AP,2002,Waldez Góes,PDT
+AP,2006,Waldez Góes,PDT
+AP,2010,Camilo Capiberibe,PSB
+AP,2014,Waldez Góes,PDT
+AP,2018,Waldez Góes,PDT
+AP,2022,Clécio Luís,SOLIDARIEDADE
+AP,2026,Dr. Furlan,PSD
+AM,1998,Amazonino Mendes,PFL
+AM,2002,Eduardo Braga,PPS
+AM,2006,Eduardo Braga,PMDB
+AM,2010,Omar Aziz,PMN
+AM,2014,José Melo,PROS
+AM,2018,Wilson Lima,PSC
+AM,2022,Wilson Lima,UNIÃO
+AM,2026,Omar Aziz (PSD) vs Maria do Carmo (PL),PENDING
+BA,1998,César Borges,PFL
+BA,2002,Paulo Souto,PFL
+BA,2006,Jaques Wagner,PT
+BA,2010,Jaques Wagner,PT
+BA,2014,Rui Costa,PT
+BA,2018,Rui Costa,PT
+BA,2022,Jerônimo Rodrigues,PT
+BA,2026,Jerônimo Rodrigues,PT
+CE,1998,Tasso Jereissati,PSDB
+CE,2002,Lúcio Alcântara,PSDB
+CE,2006,Cid Gomes,PSB
+CE,2010,Cid Gomes,PSB
+CE,2014,Camilo Santana,PT
+CE,2018,Camilo Santana,PT
+CE,2022,Elmano de Freitas,PT
+CE,2026,Elmano de Freitas,PT
+DF,1998,Joaquim Roriz,PMDB
+DF,2002,Joaquim Roriz,PMDB
+DF,2006,José Roberto Arruda,PFL
+DF,2010,Agnelo Queiroz,PT
+DF,2014,Rodrigo Rollemberg,PSB
+DF,2018,Ibaneis Rocha,MDB
+DF,2022,Ibaneis Rocha,MDB
+DF,2026,Celina Leão (PP) vs Leandro Grass (PT),PENDING
+ES,1998,José Ignácio Ferreira,PSDB
+ES,2002,Paulo Hartung,PSB
+ES,2006,Paulo Hartung,PMDB
+ES,2010,Renato Casagrande,PSB
+ES,2014,Paulo Hartung,PMDB
+ES,2018,Renato Casagrande,PSB
+ES,2022,Renato Casagrande,PSB
+ES,2026,Lorenzo Pazolini (REPUBLICANOS) vs Ricardo Ferraço (MDB),PENDING
+GO,1998,Marconi Perillo,PSDB
+GO,2002,Marconi Perillo,PSDB
+GO,2006,Alcides Rodrigues,PP
+GO,2010,Marconi Perillo,PSDB
+GO,2014,Marconi Perillo,PSDB
+GO,2018,Ronaldo Caiado,DEM
+GO,2022,Ronaldo Caiado,UNIÃO
+GO,2026,Daniel Vilela,MDB
+MA,1998,Roseana Sarney,PFL
+MA,2002,José Reinaldo Tavares,PFL
+MA,2006,Jackson Lago,PDT
+MA,2010,Roseana Sarney,PMDB
+MA,2014,Flávio Dino,PCDOB
+MA,2018,Flávio Dino,PCDOB
+MA,2022,Carlos Brandão,PSB
+MA,2026,Eduardo Braide,PSD
+MT,1998,Dante de Oliveira,PSDB
+MT,2002,Blairo Maggi,PPS
+MT,2006,Blairo Maggi,PPS
+MT,2010,Silval Barbosa,PMDB
+MT,2014,Pedro Taques,PDT
+MT,2018,Mauro Mendes,DEM
+MT,2022,Mauro Mendes,UNIÃO
+MT,2026,Otaviano Pivetta,REPUBLICANOS
+MS,1998,Zeca do PT,PT
+MS,2002,Zeca do PT,PT
+MS,2006,André Puccinelli,PMDB
+MS,2010,André Puccinelli,PMDB
+MS,2014,Reinaldo Azambuja,PSDB
+MS,2018,Reinaldo Azambuja,PSDB
+MS,2022,Eduardo Riedel,PSDB
+MS,2026,Eduardo Riedel,PP
+MG,1998,Itamar Franco,PMDB
+MG,2002,Aécio Neves,PSDB
+MG,2006,Aécio Neves,PSDB
+MG,2010,Antônio Anastasia,PSDB
+MG,2014,Fernando Pimentel,PT
+MG,2018,Romeu Zema,NOVO
+MG,2022,Romeu Zema,NOVO
+MG,2026,Cleitinho Azevedo,REPUBLICANOS
+PA,1998,Almir Gabriel,PSDB
+PA,2002,Simão Jatene,PSDB
+PA,2006,Ana Júlia Carepa,PT
+PA,2010,Simão Jatene,PSDB
+PA,2014,Simão Jatene,PSDB
+PA,2018,Helder Barbalho,MDB
+PA,2022,Helder Barbalho,MDB
+PA,2026,Dr. Daniel,PODE
+PB,1998,José Maranhão,PMDB
+PB,2002,Cássio Cunha Lima,PSDB
+PB,2006,Cássio Cunha Lima,PSDB
+PB,2010,Ricardo Coutinho,PSB
+PB,2014,Ricardo Coutinho,PSB
+PB,2018,João Azevêdo,PSB
+PB,2022,João Azevêdo,PSB
+PB,2026,Lucas Ribeiro,PP
+PR,1998,Jaime Lerner,PFL
+PR,2002,Roberto Requião,PMDB
+PR,2006,Roberto Requião,PMDB
+PR,2010,Beto Richa,PSDB
+PR,2014,Beto Richa,PSDB
+PR,2018,Ratinho Júnior,PSD
+PR,2022,Ratinho Júnior,PSD
+PR,2026,Sérgio Moro,PL
+PE,1998,Jarbas Vasconcelos,PMDB
+PE,2002,Jarbas Vasconcelos,PMDB
+PE,2006,Eduardo Campos,PSB
+PE,2010,Eduardo Campos,PSB
+PE,2014,Paulo Câmara,PSB
+PE,2018,Paulo Câmara,PSB
+PE,2022,Raquel Lyra,PSDB
+PE,2026,Raquel Lyra,PSD
+PI,1998,Hugo Napoleão,PFL
+PI,2002,Wellington Dias,PT
+PI,2006,Wellington Dias,PT
+PI,2010,Wilson Martins,PSB
+PI,2014,Wellington Dias,PT
+PI,2018,Wellington Dias,PT
+PI,2022,Rafael Fonteles,PT
+PI,2026,Rafael Fonteles,PT
+RJ,1998,Anthony Garotinho,PDT
+RJ,2002,Rosinha Garotinho,PSB
+RJ,2006,Sérgio Cabral,PMDB
+RJ,2010,Sérgio Cabral,PMDB
+RJ,2014,Luiz Fernando Pezão,PMDB
+RJ,2018,Wilson Witzel,PSC
+RJ,2022,Cláudio Castro,PL
+RJ,2026,Douglas Ruas (PL) vs Eduardo Paes (PSD),PENDING
+RN,1998,Garibaldi Alves Filho,PMDB
+RN,2002,Wilma de Faria,PSB
+RN,2006,Wilma de Faria,PSB
+RN,2010,Rosalba Ciarlini,DEM
+RN,2014,Robinson Faria,PSD
+RN,2018,Fátima Bezerra,PT
+RN,2022,Fátima Bezerra,PT
+RN,2026,Allyson Bezerra (UNIÃO) vs Cadu de Lula (PT),PENDING
+RS,1998,Olívio Dutra,PT
+RS,2002,Germano Rigotto,PMDB
+RS,2006,Yeda Crusius,PSDB
+RS,2010,Tarso Genro,PT
+RS,2014,José Ivo Sartori,PMDB
+RS,2018,Eduardo Leite,PSDB
+RS,2022,Eduardo Leite,PSDB
+RS,2026,Zucco,PL
+RO,1998,José Bianco,PFL
+RO,2002,Ivo Cassol,PSDB
+RO,2006,Ivo Cassol,PPS
+RO,2010,Confúcio Moura,PMDB
+RO,2014,Confúcio Moura,PMDB
+RO,2018,Marcos Rocha,PSL
+RO,2022,Marcos Rocha,UNIÃO
+RO,2026,Marcos Rogério,PL
+RR,1998,Neudo Campos,PPB
+RR,2002,Flamarion Portela,PSL
+RR,2006,Ottomar Pinto,PSDB
+RR,2010,José de Anchieta Júnior,PSDB
+RR,2014,Suely Campos,PP
+RR,2018,Antonio Denarium,PSL
+RR,2022,Antonio Denarium,PP
+RR,2026,Arthur Henrique,PL
+SC,1998,Esperidião Amin,PPB
+SC,2002,Luiz Henrique da Silveira,PMDB
+SC,2006,Luiz Henrique da Silveira,PMDB
+SC,2010,Raimundo Colombo,DEM
+SC,2014,Raimundo Colombo,PSD
+SC,2018,Carlos Moisés,PSL
+SC,2022,Jorginho Mello,PL
+SC,2026,Jorginho Mello,PL
+SP,1998,Mário Covas,PSDB
+SP,2002,Geraldo Alckmin,PSDB
+SP,2006,José Serra,PSDB
+SP,2010,Geraldo Alckmin,PSDB
+SP,2014,Geraldo Alckmin,PSDB
+SP,2018,João Doria,PSDB
+SP,2022,Tarcísio de Freitas,REPUBLICANOS
+SP,2026,Tarcísio de Freitas,REPUBLICANOS
+SE,1998,Albano Franco,PSDB
+SE,2002,João Alves Filho,PFL
+SE,2006,Marcelo Déda,PT
+SE,2010,Marcelo Déda,PT
+SE,2014,Jackson Barreto,PMDB
+SE,2018,Belivaldo Chagas,PSD
+SE,2022,Fábio Mitidieri,PSD
+SE,2026,Fábio Mitidieri,PSD
+TO,1998,Siqueira Campos,PFL
+TO,2002,Marcelo Miranda,PFL
+TO,2006,Marcelo Miranda,PMDB
+TO,2010,Siqueira Campos,PSDB
+TO,2014,Marcelo Miranda,PMDB
+TO,2018,Mauro Carlesse,PHS
+TO,2022,Wanderlei Barbosa,REPUBLICANOS
+TO,2026,Professora Dorinha (UNIÃO) vs Vicentinho Júnior (PSDB),PENDING

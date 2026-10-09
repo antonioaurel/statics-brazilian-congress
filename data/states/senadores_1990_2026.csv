@@ -1,0 +1,410 @@
+uf,election,senator,party
+AC,1990,Flaviano Melo,PMDB
+AC,1994,Marina Silva,PT
+AC,1994,Nabor Júnior,PMDB
+AC,1998,Tião Viana,PT
+AC,2002,Marina Silva,PT
+AC,2002,Geraldo Mesquita Júnior,PSB
+AC,2006,Tião Viana,PT
+AC,2010,Jorge Viana,PT
+AC,2010,Sérgio Petecão,PMN
+AC,2014,Gladson Cameli,PP
+AC,2018,Sérgio Petecão,PSD
+AC,2018,Márcio Bittar,MDB
+AC,2022,Alan Rick,UNIÃO
+AC,2026,Márcio Bittar,PL
+AC,2026,Mara Rocha,REPUBLICANOS
+AL,1990,Guilherme Palmeira,PFL
+AL,1994,Teotônio Vilela Filho,PSDB
+AL,1994,Renan Calheiros,PMDB
+AL,1998,Heloísa Helena,PT
+AL,2002,Renan Calheiros,PMDB
+AL,2002,Teotônio Vilela Filho,PSDB
+AL,2006,Fernando Collor,PRTB
+AL,2010,Benedito de Lira,PP
+AL,2010,Renan Calheiros,PMDB
+AL,2014,Fernando Collor,PTB
+AL,2018,Rodrigo Cunha,PSDB
+AL,2018,Renan Calheiros,MDB
+AL,2022,Renan Filho,MDB
+AL,2026,Arthur Lira,PP
+AL,2026,Marina JHC,PSDB
+AM,1990,Amazonino Mendes,PDC
+AM,1994,Bernardo Cabral,PP
+AM,1994,Jefferson Peres,PSDB
+AM,1998,Gilberto Mestrinho,PMDB
+AM,2002,Arthur Virgílio Neto,PSDB
+AM,2002,Jefferson Peres,PDT
+AM,2006,Alfredo Nascimento,PL
+AM,2010,Eduardo Braga,PMDB
+AM,2010,Vanessa Grazziotin,PCDOB
+AM,2014,Omar Aziz,PSD
+AM,2018,Plínio Valério,PSDB
+AM,2018,Eduardo Braga,MDB
+AM,2022,Omar Aziz,PSD
+AM,2026,Eduardo Braga,MDB
+AM,2026,Plínio Valério,PSDB
+AP,1990,José Sarney,PMDB
+AP,1990,Henrique Almeida,PFL
+AP,1990,Jonas Pinheiro,PTB
+AP,1994,Gilvam Borges,PMDB
+AP,1994,Sebastião Rocha,PDT
+AP,1998,José Sarney,PMDB
+AP,2002,João Capiberibe,PSB
+AP,2002,Papaléo Paes,PTB
+AP,2006,José Sarney,PMDB
+AP,2010,Randolfe Rodrigues,PSOL
+AP,2010,João Capiberibe,PSB
+AP,2014,Davi Alcolumbre,DEM
+AP,2018,Randolfe Rodrigues,REDE
+AP,2018,Lucas Barreto,PTB
+AP,2022,Davi Alcolumbre,UNIÃO
+AP,2026,Rayssa Furlan,PODE
+AP,2026,Lucas Barreto,PSD
+BA,1990,Josaphat Marinho,PFL
+BA,1994,Antônio Carlos Magalhães,PFL
+BA,1994,Waldeck Ornelas,PFL
+BA,1998,Paulo Souto,PFL
+BA,2002,Antônio Carlos Magalhães,PFL
+BA,2002,César Borges,PFL
+BA,2006,João Durval,PDT
+BA,2010,Walter Pinheiro,PT
+BA,2010,Lídice da Mata,PSB
+BA,2014,Otto Alencar,PSD
+BA,2018,Jaques Wagner,PT
+BA,2018,Angelo Coronel,PSD
+BA,2022,Otto Alencar,PSD
+BA,2026,Rui Costa,PT
+BA,2026,Jaques Wagner,PT
+CE,1990,Beni Veras,PSDB
+CE,1994,Lúcio Alcântara,PDT
+CE,1994,Sérgio Machado,PSDB
+CE,1998,Luiz Pontes,PSDB
+CE,2002,Tasso Jereissati,PSDB
+CE,2002,Patrícia Saboya,PPS
+CE,2006,Inácio Arruda,PCDOB
+CE,2010,Eunício Oliveira,PMDB
+CE,2010,José Pimentel,PT
+CE,2014,Tasso Jereissati,PSDB
+CE,2018,Cid Gomes,PDT
+CE,2018,Tasso Jereissati,PSDB
+CE,2022,Camilo Santana,PT
+CE,2026,Cid Gomes,PSB
+CE,2026,Luizianne Lins,REDE
+DF,1990,Valmir Campelo,PTB
+DF,1994,Lauro Campos,PT
+DF,1994,José Roberto Arruda,PP
+DF,1998,Luiz Estêvão,PMDB
+DF,2002,Cristovam Buarque,PT
+DF,2002,Paulo Octávio,PFL
+DF,2006,Joaquim Roriz,PMDB
+DF,2010,Cristovam Buarque,PDT
+DF,2010,Rodrigo Rollemberg,PSB
+DF,2014,José Reguffe,PDT
+DF,2018,Leila do Vôlei,PSB
+DF,2018,Izalci Lucas,PSDB
+DF,2022,Damares Alves,REPUBLICANOS
+DF,2026,Michelle Bolsonaro,PL
+DF,2026,Bia Kicis,PL
+ES,1990,Elcio Alvares,PFL
+ES,1994,José Ignácio Ferreira,PSDB
+ES,1994,Gerson Camata,PMDB
+ES,1998,Paulo Hartung,PSDB
+ES,2002,Magno Malta,PL
+ES,2002,Gerson Camata,PMDB
+ES,2006,Renato Casagrande,PSB
+ES,2010,Ricardo Ferraço,PMDB
+ES,2010,Magno Malta,PR
+ES,2014,Rose de Freitas,PMDB
+ES,2018,Fabiano Contarato,REDE
+ES,2018,Marcos do Val,PPS
+ES,2022,Magno Malta,PL
+ES,2026,Renato Casagrande,PSB
+ES,2026,Evair de Melo,REPUBLICANOS
+GO,1990,Onofre Quinan,PMDB
+GO,1994,Iris Rezende,PMDB
+GO,1994,Mauro Miranda,PMDB
+GO,1998,Maguito Vilela,PMDB
+GO,2002,Demóstenes Torres,PFL
+GO,2002,Lúcia Vânia,PSDB
+GO,2006,Marconi Perillo,PSDB
+GO,2010,Demóstenes Torres,DEM
+GO,2010,Lúcia Vânia,PSDB
+GO,2014,Ronaldo Caiado,DEM
+GO,2018,Vanderlan Cardoso,PP
+GO,2018,Jorge Kajuru,PRP
+GO,2022,Wilder Morais,PL
+GO,2026,Gustavo Gayer,PL
+GO,2026,Gracinha Caiado,UNIÃO
+MA,1990,Epitácio Cafeteira,PDC
+MA,1994,Edison Lobão,PFL
+MA,1994,Alexandre Costa,PFL
+MA,1998,João Alberto,PMDB
+MA,2002,Roseana Sarney,PFL
+MA,2002,Edison Lobão,PFL
+MA,2006,Epitácio Cafeteira,PTB
+MA,2010,Edison Lobão,PMDB
+MA,2010,João Alberto,PMDB
+MA,2014,Roberto Rocha,PSB
+MA,2018,Weverton Rocha,PDT
+MA,2018,Eliziane Gama,PPS
+MA,2022,Flávio Dino,PSB
+MA,2026,Fufuca,PP
+MA,2026,Lahesio Bonfim,NOVO
+MG,1990,Júnia Marise,PRN
+MG,1994,Francelino Pereira,PFL
+MG,1994,Arlindo Porto,PTB
+MG,1998,José Alencar,PMDB
+MG,2002,Eduardo Azeredo,PSDB
+MG,2002,Hélio Costa,PMDB
+MG,2006,Eliseu Resende,PFL
+MG,2010,Aécio Neves,PSDB
+MG,2010,Itamar Franco,PPS
+MG,2014,Antônio Anastasia,PSDB
+MG,2018,Rodrigo Pacheco,DEM
+MG,2018,Carlos Viana,PHS
+MG,2022,Cleitinho,PSC
+MG,2026,Domingos Sávio,PL
+MG,2026,Marília Campos,PT
+MS,1990,Levy Dias,PST
+MS,1994,Lúdio Coelho,PSDB
+MS,1994,Ramez Tebet,PMDB
+MS,1998,Juvêncio da Fonseca,PMDB
+MS,2002,Ramez Tebet,PMDB
+MS,2002,Delcídio do Amaral,PT
+MS,2006,Marisa Serrano,PSDB
+MS,2010,Delcídio do Amaral,PT
+MS,2010,Waldemir Moka,PMDB
+MS,2014,Simone Tebet,PMDB
+MS,2018,Nelsinho Trad,PTB
+MS,2018,Soraya Thronicke,PSL
+MS,2022,Tereza Cristina,PP
+MS,2026,Reinaldo Azambuja,PL
+MS,2026,Capitão Contar,PL
+MT,1990,Júlio Campos,PFL
+MT,1994,Jonas Pinheiro,PFL
+MT,1994,Carlos Bezerra,PMDB
+MT,1998,Antero Paes de Barros,PSDB
+MT,2002,Jonas Pinheiro,PFL
+MT,2002,Serys Slhessarenko,PT
+MT,2006,Jayme Campos,PFL
+MT,2010,Blairo Maggi,PR
+MT,2010,Pedro Taques,PDT
+MT,2014,Wellington Fagundes,PR
+MT,2018,Selma Arruda,PSL
+MT,2018,Jayme Campos,DEM
+MT,2022,Wellington Fagundes,PL
+MT,2026,Mauro Mendes,UNIÃO
+MT,2026,Zé Medeiros,PL
+PA,1990,Coutinho Jorge,PMDB
+PA,1994,Ademir Andrade,PSB
+PA,1994,Jader Barbalho,PMDB
+PA,1998,Luiz Otávio,PPB
+PA,2002,Ana Júlia Carepa,PT
+PA,2002,Duciomar Costa,PSD
+PA,2006,Mário Couto,PSDB
+PA,2010,Flexa Ribeiro,PSDB
+PA,2010,Jader Barbalho,PMDB
+PA,2014,Paulo Rocha,PT
+PA,2018,Jader Barbalho,MDB
+PA,2018,Zequinha Marinho,PSC
+PA,2022,Beto Faro,PT
+PA,2026,Helder Barbalho,MDB
+PA,2026,Chicão,UNIÃO
+PB,1990,Antônio Mariz,PMDB
+PB,1994,Ronaldo Cunha Lima,PMDB
+PB,1994,Humberto Lucena,PMDB
+PB,1998,Ney Suassuna,PMDB
+PB,2002,José Maranhão,PMDB
+PB,2002,Efraim Morais,PFL
+PB,2006,Cícero Lucena,PSDB
+PB,2010,Cássio Cunha Lima,PSDB
+PB,2010,Vital do Rêgo Filho,PMDB
+PB,2014,José Maranhão,PMDB
+PB,2018,Veneziano Vital do Rêgo,PSB
+PB,2018,Daniella Ribeiro,PP
+PB,2022,Efraim Filho,UNIÃO
+PB,2026,João Azevêdo,PSB
+PB,2026,Veneziano Vital do Rêgo,MDB
+PE,1990,Marco Maciel,PFL
+PE,1994,Carlos Wilson,PSDB
+PE,1994,Roberto Freire,PPS
+PE,1998,José Jorge,PFL
+PE,2002,Marco Maciel,PFL
+PE,2002,Sérgio Guerra,PSDB
+PE,2006,Jarbas Vasconcelos,PMDB
+PE,2010,Armando Monteiro,PTB
+PE,2010,Humberto Costa,PT
+PE,2014,Fernando Bezerra Coelho,PSB
+PE,2018,Humberto Costa,PT
+PE,2018,Jarbas Vasconcelos,MDB
+PE,2022,Teresa Leitão,PT
+PE,2026,Humberto Costa,PT
+PE,2026,Marília Arraes,PDT
+PI,1990,Lucídio Portella,PDS
+PI,1994,Hugo Napoleão,PFL
+PI,1994,Freitas Neto,PFL
+PI,1998,Alberto Silva,PMDB
+PI,2002,Heráclito Fortes,PFL
+PI,2002,Mão Santa,PMDB
+PI,2006,João Vicente Claudino,PTB
+PI,2010,Wellington Dias,PT
+PI,2010,Ciro Nogueira,PP
+PI,2014,Elmano Férrer,PTB
+PI,2018,Ciro Nogueira,PP
+PI,2018,Marcelo Castro,MDB
+PI,2022,Wellington Dias,PT
+PI,2026,Marcelo Castro,MDB
+PI,2026,Júlio César,PSD
+PR,1990,José Eduardo de Andrade Vieira,PTB
+PR,1994,Roberto Requião,PMDB
+PR,1994,Osmar Dias,PP
+PR,1998,Alvaro Dias,PSDB
+PR,2002,Osmar Dias,PDT
+PR,2002,Flávio Arns,PT
+PR,2006,Alvaro Dias,PSDB
+PR,2010,Gleisi Hoffmann,PT
+PR,2010,Roberto Requião,PMDB
+PR,2014,Alvaro Dias,PSDB
+PR,2018,Oriovisto Guimarães,PODE
+PR,2018,Flávio Arns,REDE
+PR,2022,Sergio Moro,UNIÃO
+PR,2026,Filipe Barros,PL
+PR,2026,Deltan Dallagnol,NOVO
+RJ,1990,Darcy Ribeiro,PDT
+RJ,1994,Benedita da Silva,PT
+RJ,1994,Artur da Távola,PSDB
+RJ,1998,Saturnino Braga,PSB
+RJ,2002,Sérgio Cabral,PMDB
+RJ,2002,Marcelo Crivella,PL
+RJ,2006,Francisco Dornelles,PP
+RJ,2010,Lindbergh Farias,PT
+RJ,2010,Marcelo Crivella,PRB
+RJ,2014,Romário,PSB
+RJ,2018,Flávio Bolsonaro,PSL
+RJ,2018,Arolde de Oliveira,PSD
+RJ,2022,Romário,PL
+RJ,2026,Carlos Portinho,PL
+RJ,2026,Carlos Jordy,PL
+RN,1990,Garibaldi Alves Filho,PMDB
+RN,1994,Geraldo Melo,PSDB
+RN,1994,José Agripino Maia,PFL
+RN,1998,Fernando Bezerra,PMDB
+RN,2002,Garibaldi Alves Filho,PMDB
+RN,2002,José Agripino Maia,PFL
+RN,2006,Rosalba Ciarlini,PFL
+RN,2010,José Agripino Maia,DEM
+RN,2010,Garibaldi Alves Filho,PMDB
+RN,2014,Fátima Bezerra,PT
+RN,2018,Styvenson Valentim,REDE
+RN,2018,Zenaide Maia,PHS
+RN,2022,Rogério Marinho,PL
+RN,2026,Styvenson Valentim,PODE
+RN,2026,Samanda de Lula,PT
+RO,1990,Odacir Soares,PFL
+RO,1994,José Bianco,PFL
+RO,1994,Ernandes Amorim,PDT
+RO,1998,Amir Lando,PMDB
+RO,2002,Fátima Cleide,PT
+RO,2002,Valdir Raupp,PMDB
+RO,2006,Expedito Júnior,PPS
+RO,2010,Valdir Raupp,PMDB
+RO,2010,Ivo Cassol,PP
+RO,2014,Acir Gurgacz,PDT
+RO,2018,Marcos Rogério,DEM
+RO,2018,Confúcio Moura,MDB
+RO,2022,Jaime Bagattoli,PL
+RO,2026,Fernando Máximo,PL
+RO,2026,Bruno Scheid,PL
+RR,1990,Hélio Campos,PMN
+RR,1990,Marluce Pinto,PTB
+RR,1990,César Dias,PMDB
+RR,1994,Marluce Pinto,PTB
+RR,1994,Romero Jucá,PPR
+RR,1998,Mozarildo Cavalcanti,PPB
+RR,2002,Romero Jucá,PSDB
+RR,2002,Augusto Botelho,PDT
+RR,2006,Mozarildo Cavalcanti,PTB
+RR,2010,Romero Jucá,PMDB
+RR,2010,Angela Portela,PT
+RR,2014,Telmário Mota,PDT
+RR,2018,Chico Rodrigues,DEM
+RR,2018,Mecias de Jesus,PRB
+RR,2022,Dr. Hiran,PP
+RR,2026,Nicoletti,PL
+RR,2026,Teresa Surita,MDB
+RS,1990,Pedro Simon,PMDB
+RS,1994,José Fogaça,PMDB
+RS,1994,Emília Fernandes,PTB
+RS,1998,Pedro Simon,PMDB
+RS,2002,Sérgio Zambiasi,PTB
+RS,2002,Paulo Paim,PT
+RS,2006,Pedro Simon,PMDB
+RS,2010,Paulo Paim,PT
+RS,2010,Ana Amélia Lemos,PP
+RS,2014,Lasier Martins,PDT
+RS,2018,Luis Carlos Heinze,PP
+RS,2018,Paulo Paim,PT
+RS,2022,Hamilton Mourão,REPUBLICANOS
+RS,2026,Sanderson,PL
+RS,2026,Marcel van Hattem,NOVO
+SC,1990,Esperidião Amin,PDS
+SC,1994,Vilson Kleinübing,PFL
+SC,1994,Casildo Maldaner,PMDB
+SC,1998,Jorge Bornhausen,PFL
+SC,2002,Ideli Salvatti,PT
+SC,2002,Leonel Pavan,PSDB
+SC,2006,Raimundo Colombo,PFL
+SC,2010,Luiz Henrique da Silveira,PMDB
+SC,2010,Paulo Bauer,PSDB
+SC,2014,Dário Berger,PMDB
+SC,2018,Esperidião Amin,PP
+SC,2018,Jorginho Mello,PR
+SC,2022,Jorge Seif,PL
+SC,2026,Carol de Toni,PL
+SC,2026,Carlos Bolsonaro,PL
+SE,1990,Albano Franco,PRN
+SE,1994,Antônio Carlos Valadares,PP
+SE,1994,José Eduardo Dutra,PT
+SE,1998,Maria do Carmo Alves,PFL
+SE,2002,Antônio Carlos Valadares,PSB
+SE,2002,Almeida Lima,PDT
+SE,2006,Maria do Carmo Alves,PFL
+SE,2010,Eduardo Amorim,PSC
+SE,2010,Antônio Carlos Valadares,PSB
+SE,2014,Maria do Carmo Alves,DEM
+SE,2018,Alessandro Vieira,REDE
+SE,2018,Rogério Carvalho,PT
+SE,2022,Laércio Oliveira,PP
+SE,2026,Rogério Carvalho,PT
+SE,2026,Alessandro Vieira,MDB
+SP,1990,Eduardo Suplicy,PT
+SP,1994,José Serra,PSDB
+SP,1994,Romeu Tuma,PL
+SP,1998,Eduardo Suplicy,PT
+SP,2002,Aloizio Mercadante,PT
+SP,2002,Romeu Tuma,PFL
+SP,2006,Eduardo Suplicy,PT
+SP,2010,Aloysio Nunes,PSDB
+SP,2010,Marta Suplicy,PT
+SP,2014,José Serra,PSDB
+SP,2018,Major Olimpio,PSL
+SP,2018,Mara Gabrilli,PSDB
+SP,2022,Marcos Pontes,PL
+SP,2026,Guilherme Derrite,PP
+SP,2026,André do Prado,PL
+TO,1990,João Rocha,PFL
+TO,1994,Carlos Patrocínio,PFL
+TO,1994,Leomar Quintanilha,PPR
+TO,1998,Eduardo Siqueira Campos,PFL
+TO,2002,Leomar Quintanilha,PFL
+TO,2002,João Ribeiro,PFL
+TO,2006,Kátia Abreu,PFL
+TO,2010,João Ribeiro,PR
+TO,2010,Vicentinho Alves,PR
+TO,2014,Kátia Abreu,PMDB
+TO,2018,Eduardo Gomes,SOLIDARIEDADE
+TO,2018,Irajá Abreu,PSD
+TO,2022,Professora Dorinha,UNIÃO
+TO,2026,Eduardo Gomes,PL
+TO,2026,Alexandre Guimarães,MDB

@@ -1,0 +1,348 @@
+indicator,year,value,unit,source,note
+catholic,1991,83.3,pct_population,IBGE Censo,
+catholic,2000,73.6,pct_population,IBGE Censo,
+catholic,2010,64.6,pct_population,IBGE Censo,
+catholic,2022,56.7,pct_population,IBGE Censo,
+evangelical,1991,9.0,pct_population,IBGE Censo,
+evangelical,2000,15.4,pct_population,IBGE Censo,
+evangelical,2010,22.2,pct_population,IBGE Censo,
+evangelical,2022,26.9,pct_population,IBGE Censo,
+no_religion,1991,4.7,pct_population,IBGE Censo,
+no_religion,2000,7.3,pct_population,IBGE Censo,
+no_religion,2010,8.0,pct_population,IBGE Censo,
+no_religion,2022,9.3,pct_population,IBGE Censo,
+internet_individuals,1996,0.5,pct_population,ITU,
+internet_individuals,2000,2.9,pct_population,ITU,
+internet_individuals,2002,9.2,pct_population,ITU,
+internet_individuals,2004,19.1,pct_population,ITU,
+internet_individuals,2006,28.2,pct_population,ITU,
+internet_individuals,2008,33.8,pct_population,ITU,
+internet_individuals,2010,40.6,pct_population,ITU,
+internet_individuals,2012,48.6,pct_population,ITU,
+internet_individuals,2014,54.6,pct_population,ITU,
+internet_individuals,2016,60.9,pct_population,ITU,
+internet_individuals,2018,70.4,pct_population,ITU,
+internet_individuals,2020,81.3,pct_population,ITU,
+internet_individuals,2022,80.5,pct_population,ITU,
+internet_individuals,2025,86.2,pct_population,DataReportal,
+internet_households,2005,13,pct_households,TIC Domicilios,
+internet_households,2008,18,pct_households,TIC Domicilios,
+internet_households,2011,38,pct_households,TIC Domicilios,
+internet_households,2014,50,pct_households,TIC Domicilios,
+internet_households,2017,61,pct_households,TIC Domicilios,
+internet_households,2019,71,pct_households,TIC Domicilios,
+internet_households,2021,82,pct_households,TIC Domicilios,
+internet_households,2023,84,pct_households,TIC Domicilios,
+internet_households,2024,83,pct_households,TIC Domicilios,
+mobile_lines,1990,0,per_100_inhabitants,Anatel,
+mobile_lines,1994,0.5,per_100_inhabitants,Anatel,
+mobile_lines,1998,4.4,per_100_inhabitants,Anatel,
+mobile_lines,2002,19.5,per_100_inhabitants,Anatel,
+mobile_lines,2006,53,per_100_inhabitants,Anatel,
+mobile_lines,2010,100,per_100_inhabitants,Anatel,
+mobile_lines,2014,139,per_100_inhabitants,Anatel,
+mobile_lines,2018,99,per_100_inhabitants,Anatel,
+mobile_lines,2022,100,per_100_inhabitants,Anatel,
+mobile_lines,2025,122,per_100_inhabitants,Anatel,
+smartphone_users,2012,14,pct_population,TIC Domicilios,approx
+smartphone_users,2014,31,pct_population,TIC Domicilios,approx
+smartphone_users,2016,50,pct_population,TIC Domicilios,approx
+smartphone_users,2018,62,pct_population,TIC Domicilios,approx
+smartphone_users,2020,72,pct_population,TIC Domicilios,approx
+smartphone_users,2022,80,pct_population,TIC Domicilios,approx
+smartphone_users,2024,85,pct_population,TIC Domicilios,approx
+facebook_users,2008,1,millions,company disclosures,approx
+facebook_users,2010,9,millions,company disclosures,approx
+facebook_users,2012,65,millions,company disclosures,approx
+facebook_users,2014,89,millions,company disclosures,approx
+facebook_users,2016,102,millions,company disclosures,approx
+facebook_users,2018,127,millions,DataReportal,approx
+facebook_users,2020,130,millions,DataReportal,approx
+facebook_users,2022,109,millions,DataReportal ad reach,
+facebook_users,2024,111,millions,DataReportal ad reach,
+facebook_users,2025,112,millions,DataReportal ad reach,
+instagram_users,2013,5,millions,company disclosures,approx
+instagram_users,2015,22,millions,company disclosures,approx
+instagram_users,2016,35,millions,company disclosures,approx
+instagram_users,2017,50,millions,company disclosures,approx
+instagram_users,2018,64,millions,DataReportal,approx
+instagram_users,2019,77,millions,DataReportal,approx
+instagram_users,2020,95,millions,DataReportal,approx
+instagram_users,2022,119,millions,DataReportal ad reach,
+instagram_users,2024,135,millions,DataReportal ad reach,
+instagram_users,2025,140,millions,DataReportal ad reach,
+gdp_per_capita,1990,3100,current_usd,World Bank,
+gdp_per_capita,1994,3500,current_usd,World Bank,
+gdp_per_capita,1998,5100,current_usd,World Bank,
+gdp_per_capita,2002,2800,current_usd,World Bank,
+gdp_per_capita,2006,5900,current_usd,World Bank,
+gdp_per_capita,2010,11300,current_usd,World Bank,
+gdp_per_capita,2012,12300,current_usd,World Bank,
+gdp_per_capita,2014,12100,current_usd,World Bank,
+gdp_per_capita,2016,8700,current_usd,World Bank,
+gdp_per_capita,2018,9200,current_usd,World Bank,
+gdp_per_capita,2020,7000,current_usd,World Bank,
+gdp_per_capita,2022,9000,current_usd,World Bank,
+gdp_per_capita,2024,10300,current_usd,World Bank,
+gdp_growth,1990,-4.3,pct,IBGE,
+gdp_growth,1991,1.0,pct,IBGE,
+gdp_growth,1992,-0.5,pct,IBGE,
+gdp_growth,1993,4.7,pct,IBGE,
+gdp_growth,1994,5.3,pct,IBGE,
+gdp_growth,1995,4.4,pct,IBGE,
+gdp_growth,1996,2.2,pct,IBGE,
+gdp_growth,1997,3.4,pct,IBGE,
+gdp_growth,1998,0.3,pct,IBGE,
+gdp_growth,1999,0.5,pct,IBGE,
+gdp_growth,2000,4.4,pct,IBGE,
+gdp_growth,2001,1.4,pct,IBGE,
+gdp_growth,2002,3.1,pct,IBGE,
+gdp_growth,2003,1.1,pct,IBGE,
+gdp_growth,2004,5.8,pct,IBGE,
+gdp_growth,2005,3.2,pct,IBGE,
+gdp_growth,2006,4.0,pct,IBGE,
+gdp_growth,2007,6.1,pct,IBGE,
+gdp_growth,2008,5.1,pct,IBGE,
+gdp_growth,2009,-0.1,pct,IBGE,
+gdp_growth,2010,7.5,pct,IBGE,
+gdp_growth,2011,4.0,pct,IBGE,
+gdp_growth,2012,1.9,pct,IBGE,
+gdp_growth,2013,3.0,pct,IBGE,
+gdp_growth,2014,0.5,pct,IBGE,
+gdp_growth,2015,-3.5,pct,IBGE,
+gdp_growth,2016,-3.3,pct,IBGE,
+gdp_growth,2017,1.3,pct,IBGE,
+gdp_growth,2018,1.8,pct,IBGE,
+gdp_growth,2019,1.2,pct,IBGE,
+gdp_growth,2020,-3.3,pct,IBGE,
+gdp_growth,2021,4.8,pct,IBGE,
+gdp_growth,2022,3.0,pct,IBGE,
+gdp_growth,2023,3.2,pct,IBGE,
+gdp_growth,2024,3.4,pct,IBGE,
+gdp_growth,2025,2.3,pct,IBGE,
+hdi,1990,0.610,index,UNDP,
+hdi,1995,0.650,index,UNDP,
+hdi,2000,0.685,index,UNDP,
+hdi,2005,0.700,index,UNDP,
+hdi,2010,0.727,index,UNDP,
+hdi,2014,0.755,index,UNDP,
+hdi,2018,0.762,index,UNDP,
+hdi,2020,0.758,index,UNDP,
+hdi,2022,0.760,index,UNDP,
+hdi,2023,0.786,index,UNDP revised series,not comparable with earlier points
+unemployment,1990,4.3,pct_labour_force,IBGE PME,metro survey
+unemployment,1992,5.8,pct_labour_force,IBGE PME,metro survey
+unemployment,1994,5.1,pct_labour_force,IBGE PME,metro survey
+unemployment,1996,5.4,pct_labour_force,IBGE PME,metro survey
+unemployment,1998,7.6,pct_labour_force,IBGE PME,metro survey
+unemployment,2000,7.1,pct_labour_force,IBGE PME,metro survey
+unemployment,2002,11.7,pct_labour_force,IBGE PME,metro survey
+unemployment,2004,11.5,pct_labour_force,IBGE PME,metro survey
+unemployment,2006,10.0,pct_labour_force,IBGE PME,metro survey
+unemployment,2008,7.9,pct_labour_force,IBGE PME,metro survey
+unemployment,2010,6.7,pct_labour_force,IBGE PME,metro survey
+unemployment,2012,7.4,pct_labour_force,IBGE PNAD Continua,
+unemployment,2014,6.8,pct_labour_force,IBGE PNAD Continua,
+unemployment,2015,8.5,pct_labour_force,IBGE PNAD Continua,
+unemployment,2016,11.6,pct_labour_force,IBGE PNAD Continua,
+unemployment,2017,12.8,pct_labour_force,IBGE PNAD Continua,
+unemployment,2018,12.3,pct_labour_force,IBGE PNAD Continua,
+unemployment,2019,11.9,pct_labour_force,IBGE PNAD Continua,
+unemployment,2020,13.8,pct_labour_force,IBGE PNAD Continua,
+unemployment,2021,13.2,pct_labour_force,IBGE PNAD Continua,
+unemployment,2022,9.3,pct_labour_force,IBGE PNAD Continua,
+unemployment,2023,7.8,pct_labour_force,IBGE PNAD Continua,
+unemployment,2024,6.6,pct_labour_force,IBGE PNAD Continua,
+unemployment,2026,5.8,pct_labour_force,IBGE PNAD Continua,first half
+years_schooling,1990,3.8,years_adults_25plus,UNDP,
+years_schooling,1995,4.7,years_adults_25plus,UNDP,
+years_schooling,2000,5.6,years_adults_25plus,UNDP,
+years_schooling,2005,6.4,years_adults_25plus,UNDP,
+years_schooling,2010,7.2,years_adults_25plus,UNDP,
+years_schooling,2014,7.8,years_adults_25plus,UNDP,
+years_schooling,2018,8.0,years_adults_25plus,UNDP,
+years_schooling,2022,8.4,years_adults_25plus,UNDP,
+years_schooling,2024,8.6,years_adults_25plus,IBGE PNAD,
+gini,1990,0.61,index,World Bank,
+gini,1993,0.60,index,World Bank,
+gini,1995,0.60,index,World Bank,
+gini,1998,0.59,index,World Bank,
+gini,2001,0.59,index,World Bank,
+gini,2004,0.57,index,World Bank,
+gini,2006,0.56,index,World Bank,
+gini,2009,0.54,index,World Bank,
+gini,2011,0.53,index,World Bank,
+gini,2014,0.52,index,World Bank,
+gini,2016,0.54,index,World Bank,
+gini,2018,0.54,index,World Bank,
+gini,2020,0.49,index,World Bank,pandemic transfers
+gini,2022,0.52,index,World Bank,
+gini,2023,0.51,index,World Bank,
+prisoners,1990,90,thousands,Depen,
+prisoners,1995,148,thousands,Depen,
+prisoners,2000,232,thousands,Depen,
+prisoners,2005,361,thousands,Depen,
+prisoners,2008,451,thousands,Depen,
+prisoners,2010,496,thousands,Depen,
+prisoners,2012,549,thousands,Depen,
+prisoners,2014,622,thousands,Depen,
+prisoners,2016,726,thousands,Depen,
+prisoners,2019,755,thousands,SISDEPEN,
+prisoners,2022,832,thousands,SISDEPEN,
+prisoners,2024,850,thousands,SISDEPEN,excludes house arrest
+prisoners_rate,1990,61,per_100k,derived,
+prisoners_rate,2000,137,per_100k,derived,
+prisoners_rate,2010,260,per_100k,derived,
+prisoners_rate,2014,306,per_100k,derived,
+prisoners_rate,2018,357,per_100k,derived,
+prisoners_rate,2022,390,per_100k,derived,
+prisoners_rate,2024,400,per_100k,derived,approx
+homicide_rate,1990,22.2,per_100k,Atlas da Violencia,
+homicide_rate,1994,21.2,per_100k,Atlas da Violencia,
+homicide_rate,1998,25.9,per_100k,Atlas da Violencia,
+homicide_rate,2002,28.5,per_100k,Atlas da Violencia,
+homicide_rate,2006,26.3,per_100k,Atlas da Violencia,
+homicide_rate,2010,27.8,per_100k,Atlas da Violencia,
+homicide_rate,2014,29.8,per_100k,Atlas da Violencia,
+homicide_rate,2016,30.3,per_100k,Atlas da Violencia,
+homicide_rate,2017,31.6,per_100k,Atlas da Violencia,
+homicide_rate,2018,27.8,per_100k,Atlas da Violencia,
+homicide_rate,2020,23.6,per_100k,Atlas da Violencia,
+homicide_rate,2022,21.7,per_100k,Atlas da Violencia,
+homicide_rate,2023,21.2,per_100k,Atlas da Violencia,
+women_pay_ratio,1992,62,pct_of_men,IBGE PNAD,
+women_pay_ratio,1997,66,pct_of_men,IBGE PNAD,
+women_pay_ratio,2002,70,pct_of_men,IBGE PNAD,
+women_pay_ratio,2007,71,pct_of_men,IBGE PNAD,
+women_pay_ratio,2012,73,pct_of_men,IBGE PNAD,
+women_pay_ratio,2016,76,pct_of_men,IBGE PNAD,
+women_pay_ratio,2019,77.7,pct_of_men,IBGE PNAD,
+women_pay_ratio,2022,78.9,pct_of_men,IBGE PNAD,
+women_pay_ratio,2024,79,pct_of_men,IBGE PNAD,
+female_participation,1992,47,pct,IBGE PNAD,
+female_participation,1997,50,pct,IBGE PNAD,
+female_participation,2002,52,pct,IBGE PNAD,
+female_participation,2007,53,pct,IBGE PNAD,
+female_participation,2012,51,pct,IBGE PNAD,
+female_participation,2016,52,pct,IBGE PNAD,
+female_participation,2019,54.5,pct,IBGE PNAD,
+female_participation,2022,53,pct,IBGE PNAD,
+female_participation,2024,54,pct,IBGE PNAD,
+female_headed_households,1992,22,pct_households,IBGE PNAD,
+female_headed_households,2002,29,pct_households,IBGE PNAD,
+female_headed_households,2010,38,pct_households,IBGE Censo,
+female_headed_households,2015,40,pct_households,IBGE PNAD,
+female_headed_households,2019,45,pct_households,IBGE PNAD,
+female_headed_households,2022,49.1,pct_households,IBGE Censo,
+one_person_households,1992,7.6,pct_households,IBGE PNAD,
+one_person_households,2002,9.3,pct_households,IBGE PNAD,
+one_person_households,2010,12.1,pct_households,IBGE Censo,
+one_person_households,2015,14.5,pct_households,IBGE PNAD,
+one_person_households,2019,15.4,pct_households,IBGE PNAD,
+one_person_households,2022,18.9,pct_households,IBGE Censo,
+fertility_rate,1990,2.9,children_per_woman,IBGE,
+fertility_rate,2000,2.4,children_per_woman,IBGE,
+fertility_rate,2010,1.9,children_per_woman,IBGE,
+fertility_rate,2015,1.8,children_per_woman,IBGE,
+fertility_rate,2022,1.6,children_per_woman,IBGE Censo,
+fertility_rate,2024,1.6,children_per_woman,IBGE,
+vehicle_fleet,1990,16,millions,Denatran/Senatran,
+vehicle_fleet,1994,19,millions,Denatran/Senatran,
+vehicle_fleet,1998,27,millions,Denatran/Senatran,
+vehicle_fleet,2002,35,millions,Denatran/Senatran,
+vehicle_fleet,2006,45,millions,Denatran/Senatran,
+vehicle_fleet,2010,65,millions,Denatran/Senatran,
+vehicle_fleet,2014,86,millions,Denatran/Senatran,
+vehicle_fleet,2018,100,millions,Denatran/Senatran,
+vehicle_fleet,2022,115,millions,Denatran/Senatran,
+vehicle_fleet,2024,121,millions,Denatran/Senatran,
+vehicle_fleet,2026,125,millions,Senatran,approx
+motorcycles,1998,3,millions,Denatran/Senatran,
+motorcycles,2002,5,millions,Denatran/Senatran,
+motorcycles,2006,9,millions,Denatran/Senatran,
+motorcycles,2010,17,millions,Denatran/Senatran,
+motorcycles,2014,23,millions,Denatran/Senatran,
+motorcycles,2018,27,millions,Denatran/Senatran,
+motorcycles,2022,31,millions,Denatran/Senatran,
+motorcycles,2024,34,millions,Denatran/Senatran,
+vehicles_per_100,1990,11,per_100_inhabitants,derived,
+vehicles_per_100,2000,19,per_100_inhabitants,derived,
+vehicles_per_100,2010,33,per_100_inhabitants,derived,
+vehicles_per_100,2014,42,per_100_inhabitants,derived,
+vehicles_per_100,2018,48,per_100_inhabitants,derived,
+vehicles_per_100,2022,54,per_100_inhabitants,derived,
+vehicles_per_100,2024,57,per_100_inhabitants,derived,
+clt_share,1992,29,pct_employed,IBGE PNAD,old PNAD
+clt_share,1995,28,pct_employed,IBGE PNAD,old PNAD
+clt_share,1999,27,pct_employed,IBGE PNAD,old PNAD
+clt_share,2002,28,pct_employed,IBGE PNAD,old PNAD
+clt_share,2005,30,pct_employed,IBGE PNAD,old PNAD
+clt_share,2008,33,pct_employed,IBGE PNAD,old PNAD
+clt_share,2011,36,pct_employed,IBGE PNAD,old PNAD
+clt_share,2012,36.5,pct_employed,IBGE PNAD Continua,
+clt_share,2014,38.0,pct_employed,IBGE PNAD Continua,
+clt_share,2016,36.6,pct_employed,IBGE PNAD Continua,
+clt_share,2018,35.2,pct_employed,IBGE PNAD Continua,
+clt_share,2020,34.9,pct_employed,IBGE PNAD Continua,
+clt_share,2022,36.5,pct_employed,IBGE PNAD Continua,
+clt_share,2024,38.0,pct_employed,IBGE PNAD Continua,
+clt_share,2026,38.6,pct_employed,IBGE PNAD Continua,first half
+informal_share,1992,56,pct_employed,IBGE PNAD,old PNAD
+informal_share,1995,55,pct_employed,IBGE PNAD,old PNAD
+informal_share,1999,54,pct_employed,IBGE PNAD,old PNAD
+informal_share,2002,52,pct_employed,IBGE PNAD,old PNAD
+informal_share,2005,50,pct_employed,IBGE PNAD,old PNAD
+informal_share,2008,46,pct_employed,IBGE PNAD,old PNAD
+informal_share,2011,43,pct_employed,IBGE PNAD,old PNAD
+informal_share,2012,41.4,pct_employed,IBGE PNAD Continua,
+informal_share,2014,39.4,pct_employed,IBGE PNAD Continua,
+informal_share,2016,39.1,pct_employed,IBGE PNAD Continua,
+informal_share,2018,40.8,pct_employed,IBGE PNAD Continua,
+informal_share,2019,41.1,pct_employed,IBGE PNAD Continua,
+informal_share,2020,38.7,pct_employed,IBGE PNAD Continua,
+informal_share,2022,39.6,pct_employed,IBGE PNAD Continua,
+informal_share,2024,38.7,pct_employed,IBGE PNAD Continua,
+informal_share,2026,37.8,pct_employed,IBGE PNAD Continua,first half
+clt_employees,2012,32.6,millions,IBGE PNAD Continua,
+clt_employees,2014,36.6,millions,IBGE PNAD Continua,
+clt_employees,2016,34.2,millions,IBGE PNAD Continua,
+clt_employees,2018,33.0,millions,IBGE PNAD Continua,
+clt_employees,2020,29.9,millions,IBGE PNAD Continua,
+clt_employees,2022,36.1,millions,IBGE PNAD Continua,
+clt_employees,2024,38.4,millions,IBGE PNAD Continua,
+clt_employees,2026,39.6,millions,IBGE PNAD Continua,first half
+employees_no_contract,2012,10.6,millions,IBGE PNAD Continua,
+employees_no_contract,2016,10.2,millions,IBGE PNAD Continua,
+employees_no_contract,2018,11.5,millions,IBGE PNAD Continua,
+employees_no_contract,2020,9.6,millions,IBGE PNAD Continua,
+employees_no_contract,2022,13.0,millions,IBGE PNAD Continua,
+employees_no_contract,2024,13.6,millions,IBGE PNAD Continua,
+employees_no_contract,2026,13.4,millions,IBGE PNAD Continua,first half
+self_employed,2012,20.3,millions,IBGE PNAD Continua,
+self_employed,2016,22.4,millions,IBGE PNAD Continua,
+self_employed,2018,23.5,millions,IBGE PNAD Continua,
+self_employed,2020,22.6,millions,IBGE PNAD Continua,
+self_employed,2022,25.3,millions,IBGE PNAD Continua,
+self_employed,2024,25.4,millions,IBGE PNAD Continua,
+self_employed,2026,25.8,millions,IBGE PNAD Continua,first half
+mei,2009,0.04,millions,Receita Federal/Sebrae,
+mei,2010,0.8,millions,Receita Federal/Sebrae,
+mei,2012,2.6,millions,Receita Federal/Sebrae,
+mei,2014,4.6,millions,Receita Federal/Sebrae,
+mei,2016,6.6,millions,Receita Federal/Sebrae,
+mei,2018,7.7,millions,Receita Federal/Sebrae,
+mei,2020,11.3,millions,Receita Federal/Sebrae,
+mei,2022,14.6,millions,Receita Federal/Sebrae,
+mei,2024,15.9,millions,Receita Federal/Sebrae,
+mei,2026,17.2,millions,Receita Federal/Sebrae,includes inactive registrations
+sewage_network,1992,37,pct_households,IBGE PNAD,approx; households connected to sewage network
+sewage_network,2002,46,pct_households,IBGE PNAD,approx
+sewage_network,2012,57,pct_households,IBGE PNAD,approx
+sewage_network,2019,66,pct_households,IBGE PNAD Continua,approx
+sewage_network,2022,66,pct_households,IBGE PNAD Continua,approx
+sewage_network,2024,67,pct_households,IBGE PNAD Continua,approx
+water_network,1992,70,pct_households,IBGE PNAD,approx; households connected to water network
+water_network,2002,80,pct_households,IBGE PNAD,approx
+water_network,2012,84,pct_households,IBGE PNAD,approx
+water_network,2019,86,pct_households,IBGE PNAD Continua,approx
+water_network,2024,87,pct_households,IBGE PNAD Continua,approx

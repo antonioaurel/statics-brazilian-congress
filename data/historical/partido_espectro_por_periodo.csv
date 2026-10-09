@@ -1,0 +1,65 @@
+party,from_year,to_year,spectrum,note
+PRONA,1990,2006,far_right,
+PSL,1990,2014,right,small liberal party before Bolsonaro
+PSL,2018,2018,far_right,Bolsonaro's vehicle in 2018
+PL,1990,2006,centre_right,before the 2006 merger into PR
+PL,2007,2018,right,
+PL,2022,2030,far_right,after Bolsonaro joined in 2021
+PFL,1990,2006,right,
+DEM,2007,2021,right,
+PPB,1995,2002,right,
+PP,2003,2010,right,
+PP,2011,2030,centre_right,centrão era
+PR,2006,2018,right,
+PRB,2005,2018,right,
+REPUBLICANOS,2019,2030,right,
+PSC,1990,2030,right,
+PTB,1990,2010,centre_right,
+PTB,2011,2030,right,
+PSD,1990,2003,right,old PSD
+PSD,2011,2030,centre_right,Kassab's PSD
+PSDB,1994,2030,centre_right,
+PSDB,1990,1993,centre,
+PMDB,1990,2017,centre,
+MDB,2018,2030,centre,
+PPS,1992,2010,centre_left,
+PPS,2011,2018,centre,
+CIDADANIA,2019,2030,centre,
+PMN,1990,2030,centre,
+PTDOB,1990,2017,centre,
+AVANTE,2017,2030,centre,
+PAN,1998,2006,right,
+PTN,1990,2016,centre_right,
+PODE,2017,2030,centre_right,
+PROS,2013,2030,centre_right,
+SD,2013,2018,centre_right,
+SOLIDARIEDADE,2013,2030,centre_right,
+UNIÃO,2022,2030,centre_right,
+PHS,1997,2019,right,
+PATRIOTA,2012,2030,right,PEN until 2018
+PRP,1990,2019,right,
+PRTB,1995,2030,right,
+PTC,2000,2030,right,
+PSDC,1997,2018,right,
+DC,2018,2030,right,
+PST,1990,2003,right,
+PRS,1990,1993,right,
+PRN,1990,2000,right,
+PDC,1990,1993,right,
+PGT,1990,2003,right,
+PMB,1990,2030,right,
+NOVO,2015,2030,right,
+PRD,2023,2030,right,
+MISSÃO,2025,2030,right,
+PPL,2009,2019,left,
+REDE,2015,2030,centre_left,
+PSB,1990,2030,centre_left,
+PDT,1990,2030,centre_left,
+PV,1990,2030,centre_left,
+PT,1990,2030,left,
+PCDOB,1990,2030,left,
+PCB,1990,1991,far_left,
+PSOL,2004,2030,far_left,
+PDS,1990,1993,right,regime party until the 1993 merger into PPR
+PPR,1993,1995,right,PDS+PDC merger
+PP,1993,1995,right,Partido Progressista (1993 to 1995) merged into PPB
