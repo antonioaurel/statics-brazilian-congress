@@ -299,7 +299,7 @@ index = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta nam
 </div>
 </div>
 </main>
-<footer class="foot"><span data-i="author"></span>: Antonio Aureliano · <a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
+<footer class="foot"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
 <script>{I18N_JS}</script><script>{_fill(INDEX_JS)}</script></body></html>"""
 (ROOT/"index.html").write_text(index, encoding="utf-8")
 print("wrote index.html", len(index)//1024, "KB")
@@ -591,7 +591,7 @@ method = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta na
 {meta("methodology","Methodology")}<style>{CSS}</style></head><body>
 {header('method')}
 <main class="doc"><div data-lang="en">{nodash(EN,"en")}</div><div data-lang="pt">{nodash(PT,"pt")}</div></main>
-<footer class="foot"><span data-i="author"></span>: Antonio Aureliano · <a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
+<footer class="foot"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
 <script>{I18N_JS}applyStrings();</script></body></html>"""
 (ROOT/"methodology.html").write_text(method.replace("__SRCLIST__", SRCLIST), encoding="utf-8")
 
@@ -624,7 +624,7 @@ pol_page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta 
 </div>
 <div id="list"></div>
 </main>
-<footer class="foot"><span data-i="author"></span>: Antonio Aureliano · <a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
+<footer class="foot"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
 <script>{I18N_JS}
 const POL={json.dumps(POLDATA, ensure_ascii=False)},ERAS={json.dumps(ERAJS, ensure_ascii=False)},YEARS={json.dumps(YEARS)},GOV={json.dumps(GOV, ensure_ascii=False)};
 const F={{year:new Set(),era:new Set(),spec:new Set(),q:''}};
@@ -772,7 +772,7 @@ compare = f"""<!doctype html><html lang="pt"><head><meta charset="utf-8"><meta n
 <div style="display:flex;gap:12px;justify-content:center;align-items:center;flex-wrap:wrap;margin:8px 0 12px"><label><span data-i="election"></span>: <select id="pel"></select></label><div class="chips" id="prd"></div></div>
 <div class="wrap donly" style="height:320px"><canvas id="presc"></canvas></div><div id="prestab" class="donly" style="margin-top:16px"></div><div id="mpres" class="monly"></div></section>
 </main>
-<footer class="foot"><span data-i="author"></span>: Antonio Aureliano · <a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
+<footer class="foot"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
 <script>{I18N_JS}</script><script>{_cfill(CMP_JS)}</script></body></html>"""
 (ROOT/"compare.html").write_text(compare, encoding="utf-8")
 print("wrote compare.html", len(compare)//1024, "KB")
