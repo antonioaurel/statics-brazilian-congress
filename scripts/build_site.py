@@ -178,7 +178,7 @@ table{border-collapse:collapse;font-size:12px;width:100%}th,td{padding:6px 6px;b
 
 SITE = "https://antonioaurel.github.io/statics-brazilian-congress/"
 SITE_TITLE = "Brazilian General Elections after Redemocratization (1990 to 2026)"
-SITE_DESC = "A data driven look at what shapes our choices: Chamber, Senate, governors and presidents by ideological spectrum, for Brazil and every state, next to the social and economic indicators used to explain them."
+SITE_DESC = "A data driven look at what shapes our choices: Chamber, Senate, governors and presidents by ideological spectrum, for Brazil and every state, next to the social and economic indicators used to explain them. - antonioaurel.github.io"
 def meta(page, prefix=""):
     t = (prefix + " · " if prefix else "") + SITE_TITLE
     url = SITE + ("" if page == "index" else page + ".html")
