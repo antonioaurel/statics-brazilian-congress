@@ -4,7 +4,7 @@ The same content, bilingual and with the politician samples, is rendered at `met
 
 ## Chamber composition
 - **1990–2026 national totals** (`data/historical/camara_espectro_1990_2026.csv`): TSE results per election, aggregated with the party→spectrum mapping below. 1990 had 503 seats.
-- **1998–2026 per state, by party** (`data/states/camara_estado_partido_1998_2026.csv`): HubPolítico result pages (`hubpolitico.com.br/eleicoes/{year}/apuracao/{uf}/deputado-federal`), which republish the TSE totalisation. Every state-year was checked to sum to the state's seat count (216/216 pass). Federations in 2022–2026 are split into their component parties.
+- **1998–2026 per state, by party** (`data/states/camara_estado_partido_1990_2026.csv`): HubPolítico result pages (`hubpolitico.com.br/eleicoes/{year}/apuracao/{uf}/deputado-federal`), which republish the TSE totalisation. Every state-year was checked to sum to the state's seat count (216/216 pass). Federations in 2022–2026 are split into their component parties.
 - **1990 and 1994 per state**: not loaded. The TSE repository has `consulta_cand_1994.zip`; see `scripts/fetch_states.py`.
 - **1962** (`data/historical/camara_1962.csv`): Wikipedia / Schmitt (2000) via jus.com.br; small-party counts vary by one or two between sources.
 
