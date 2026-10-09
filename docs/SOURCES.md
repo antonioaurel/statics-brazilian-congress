@@ -4,8 +4,8 @@ The same content, bilingual and with the politician samples, is rendered at `met
 
 ## Chamber composition
 - **1990–2026 national totals** (`data/historical/camara_espectro_1990_2026.csv`): TSE results per election, aggregated with the party→spectrum mapping below. 1990 had 503 seats.
-- **1998–2026 per state, by party** (`data/states/camara_estado_partido_1990_2026.csv`): HubPolítico result pages (`hubpolitico.com.br/eleicoes/{year}/apuracao/{uf}/deputado-federal`), which republish the TSE totalisation. Every state-year was checked to sum to the state's seat count (216/216 pass). Federations in 2022–2026 are split into their component parties.
-- **1990 and 1994 per state**: not loaded. The TSE repository has `consulta_cand_1994.zip`; see `scripts/fetch_states.py`.
+- **1990–2026 per state, by party** (`data/states/camara_estado_partido_1990_2026.csv`). 1998–2026: HubPolítico result pages (`hubpolitico.com.br/eleicoes/{year}/apuracao/{uf}/deputado-federal`), which republish the TSE totalisation. Every state-year was checked to sum to the state's seat count (216/216 pass). Federations in 2022–2026 are split into their component parties.
+- **1990 and 1994 per state**: from the Portuguese Wikipedia state-election pages, checked against the 503 and 513 seat totals. Not yet cross-checked against the TSE repository (`consulta_cand_1994.zip`; see `scripts/fetch_states.py`).
 - **1962** (`data/historical/camara_1962.csv`): Wikipedia / Schmitt (2000) via jus.com.br; small-party counts vary by one or two between sources.
 
 ## Party → spectrum mapping (`data/historical/partido_espectro_por_periodo.csv`)
@@ -19,7 +19,7 @@ No official classification exists. The mapping follows the convention of the Bra
 
 ## Senate and governors
 - `data/states/senadores_1990_2026.csv`: senators elected per state per election, from the Portuguese Wikipedia "Eleições estaduais em {UF} em {ano}" pages (counts verified: 1 per state in 1998/2006/2014/2022, 2 in 2002/2010/2018/2026).
-- `data/states/governadores_1998_2026.csv`: governor elected per state per election (2nd-round winner), HubPolítico; six 2026 run-offs (AC, AM, DF, ES, RJ, RN, TO) marked PENDING.
+- `data/states/governadores_1998_2026.csv`: governor elected per state per election (2nd-round winner), HubPolítico; seven 2026 run-offs (AC, AM, DF, ES, RJ, RN, TO) marked PENDING.
 - `data/historical/presidentes.csv`: president elected per cycle; 1990 carries the 1989 winner.
 - Sanitation (sewage/water network, national series and the per-state `sewage_network_pct` column) are rounded from PNAD and SNIS 2022 summaries — approx.
 
