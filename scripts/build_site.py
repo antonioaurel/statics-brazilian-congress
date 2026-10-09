@@ -145,7 +145,7 @@ CSS = """
 :root[data-theme=dark]{--acc:#5b9bf0;--ink:#ecebe6;--mut:#9b9a93;--line:#2e2e2b;--bg:#161615;--card:#1f1f1d;--grid:rgba(200,200,200,.14)}
 body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;margin:0;color:var(--ink);background:var(--bg);line-height:1.5}
 header{background:var(--bg);border-bottom:1px solid var(--line);padding:14px 24px 12px;display:flex;flex-direction:column;gap:12px}.hrow1{display:grid;grid-template-columns:1fr auto;grid-template-areas:"t l" "th .";align-items:start;gap:10px 16px}.hrow1 .tblock{grid-area:t}.hrow1 .langs{grid-area:l}.hrow1 .ctl-theme{grid-area:th;justify-self:start}.hrow1 label#regionlbl{grid-column:1/-1}
-.seg{display:inline-flex;align-items:stretch;border:0;border-radius:999px;overflow:hidden;background:var(--card);padding:3px;gap:2px}.seg button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:14px;font-weight:600;padding:8px 14px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;min-height:38px}.seg button{border-radius:999px}.seg button.on{background:var(--acc);color:#fff}.seg button:not(.on):hover{background:var(--line)}.segic{display:inline-flex;align-items:center;padding:0 4px 0 12px;color:var(--acc)}.tblock{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.byline{font-size:12px;color:var(--mut);margin:8px 0 0;opacity:.8}.byline a{color:inherit;text-decoration:none}.byline a:hover{text-decoration:underline}.subt{font-size:14px;color:var(--mut)}.tabsnav{justify-content:center;flex-wrap:wrap}.tabsnav .btn{text-align:center;font-size:14px;padding:8px 14px}.hrow3{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap}.hrow3:empty{display:none}
+.seg{display:inline-flex;align-items:stretch;border:0;border-radius:999px;overflow:hidden;background:var(--card);padding:3px;gap:2px}.seg button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:12.6px;font-weight:600;padding:7px 12.5px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;min-height:34px}.ctlrow{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:0 0 14px}.seg button{border-radius:999px}.seg button.on{background:var(--acc);color:#fff}.seg button:not(.on):hover{background:var(--line)}.segic{display:inline-flex;align-items:center;padding:0 4px 0 12px;color:var(--acc)}.tblock{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.byline{font-size:12px;color:var(--mut);margin:8px 0 0;opacity:.8}.byline a{color:inherit;text-decoration:none}.byline a:hover{text-decoration:underline}.subt{font-size:14px;color:var(--mut)}.tabsnav{justify-content:center;flex-wrap:wrap}.tabsnav .btn{text-align:center;font-size:14px;padding:8px 14px}.hrow3{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap}.hrow3:empty{display:none}
 header h1{font-size:20px;font-weight:600;margin:0}select{font-size:14px;padding:6px 10px}
 .btn{font-size:13px;padding:5px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);cursor:pointer;color:var(--ink);text-decoration:none;white-space:nowrap}
 .btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}.sp{flex:1}
@@ -161,7 +161,7 @@ main{margin:0;padding:16px 24px 48px}
 .intro{background:var(--card);border-radius:10px;padding:14px 18px;margin:0 0 8px;font-size:14px;line-height:1.55}
 @media (max-width:1100px){.cols{grid-template-columns:minmax(0,1fr)}.two{grid-template-columns:minmax(0,1fr)}}
 .cols>div,.two>div{min-width:0}.wrap{min-width:0;max-width:100%}canvas{max-width:100%}
-@media (max-width:640px){header{position:static}#sub{width:100%;text-align:center}table th.gc,table td.gc{display:none}table tr.govm{display:table-row}table tr.govm td .govc{position:sticky;left:0;width:calc(100vw - 36px);text-align:center}table tr.govm td{text-align:left;font-size:12px;padding:2px 6px 10px;border-bottom:1px solid var(--line)}main{padding:12px 12px 40px}header{padding:10px 12px;gap:8px;justify-content:center;text-align:center}header h1{font-size:15px;width:100%;text-align:center}.hrow1{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}.hrow1 .tblock{width:100%}.seg button{font-size:13px;padding:7px 11px;min-height:36px}.tblock{align-items:center;text-align:center}header nav{justify-content:center;flex-wrap:nowrap;width:100%}header nav .btn{flex:1;font-size:11px;padding:6px 4px;white-space:normal;line-height:1.2}.two{gap:36px}.cap{text-align:center}.wrap{height:260px!important}.doc p,.doc li{font-size:14px}h2,h3,.intro,.note,.lg,.tabs{text-align:center}.lg,.tabs{justify-content:center}th,td,td.l,th.l{text-align:center}.govm{display:none}.pol .c{text-align:center}.chips{justify-content:center}.filters{text-align:center}}
+@media (max-width:640px){header{position:static}#sub{width:100%;text-align:center}table th.gc,table td.gc{display:none}table tr.govm{display:table-row}table tr.govm td .govc{position:sticky;left:0;width:calc(100vw - 36px);text-align:center}table tr.govm td{text-align:left;font-size:12px;padding:2px 6px 10px;border-bottom:1px solid var(--line)}main{padding:12px 12px 40px}header{padding:10px 12px;gap:8px;justify-content:center;text-align:center}header h1{font-size:15px;width:100%;text-align:center}.hrow1{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}.hrow1 .tblock{width:100%}.seg button{font-size:11.7px;padding:6px 10px;min-height:32px}.tblock{align-items:center;text-align:center}header nav{justify-content:center;flex-wrap:nowrap;width:100%}header nav .btn{flex:1;font-size:11px;padding:6px 4px;white-space:normal;line-height:1.2}.two{gap:36px}.cap{text-align:center}.wrap{height:260px!important}.doc p,.doc li{font-size:14px}h2,h3,.intro,.note,.lg,.tabs{text-align:center}.lg,.tabs{justify-content:center}th,td,td.l,th.l{text-align:center}.govm{display:none}.pol .c{text-align:center}.chips{justify-content:center}.filters{text-align:center}}
 h2{font-size:17px;font-weight:500;margin:28px 0 4px}h3{font-size:13px;font-weight:500;margin:0 0 2px}
 .cap{font-size:12px;color:var(--mut);margin:0 0 8px}.wrap{position:relative;width:100%}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px 24px}
@@ -188,12 +188,11 @@ def meta(page, prefix=""):
             f'<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Seat share of the Chamber of Deputies by ideological family, 1990 to 2026">'
             f'<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{t}"><meta name="twitter:description" content="{SITE_DESC}"><meta name="twitter:image" content="{SITE}assets/og-image.png">'
             f'<link rel="canonical" href="{url}">')
+CTLS = '<div class="ctlrow"><div class="seg ctl-theme" role="group" aria-label="Theme"><button id="th-light" onclick="setTheme(\'light\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><span data-i="theme_light"></span></button><button id="th-dark" onclick="setTheme(\'dark\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg><span data-i="theme_dark"></span></button></div><div class="seg langs" role="group" aria-label="Language"><button id="lang-en" onclick="setLang(\'en\')">English</button><button id="lang-pt" onclick="setLang(\'pt\')">Português</button></div></div>'
 def header(active):
     def nav(page, key):
         return f'<a class="btn{" on" if active==page or (active=="method" and page=="methodology") else ""}" href="{page}.html" data-i="{key}"></a>'
     return f"""<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div></div>
-<div class="seg ctl-theme" role="group" aria-label="Theme"><button id="th-light" onclick="setTheme('light')"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><span data-i="theme_light"></span></button><button id="th-dark" onclick="setTheme('dark')"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg><span data-i="theme_dark"></span></button></div>
-<div class="seg langs" role="group" aria-label="Language"><span class="segic"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.8 3.8 6 3.8 9.5s-1.2 6.7-3.8 9.5c-2.6-2.8-3.8-6-3.8-9.5s1.2-6.7 3.8-9.5z"/></svg></span><button id="lang-en" onclick="setLang('en')">English</button><button id="lang-pt" onclick="setLang('pt')">Português</button></div>
 <label id="regionlbl" style="{'' if active=='index' else 'display:none'}"><span data-i="region"></span>: <select id="uf"></select></label>
 </div>
 <nav class="tabsnav">{nav('index','nav_data')}{nav('compare','nav_cmp')}{nav('politicians','nav_pol')}{nav('methodology','nav_method')}</nav>
@@ -294,6 +293,7 @@ index = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta nam
 {meta("index")}<script src="assets/chart.umd.js"></script><style>{CSS}</style></head><body>
 {header('index')}
 <main>
+{CTLS}
 <div class="intro"><strong data-i="intro_h"></strong><br><span data-i="intro"></span><div class="byline"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div></div>
 <div class="cols">
 <div>
@@ -450,7 +450,7 @@ maptable_pt = "<table><tr><th>Partido</th><th>Anos</th><th>Espectro</th><th>Nota
 
 EN = f"""
 <h2>What this page shows</h2>
-<p>The share of seats in the Chamber of Deputies won by parties of each ideological family, at every election since redemocratisation (1990–2026) and, from 1998, for each state's delegation. Below the composition sit the social and economic indicators most often invoked to explain the political shifts, so that the two can be read side by side. The page does not test causation; it lines up series so you can see what moved together and what did not.</p>
+<p>The share of seats in the Chamber of Deputies won by parties of each ideological family, at every election since redemocratisation (1990–2026), nationally and for each state's delegation. Below the composition sit the social and economic indicators most often invoked to explain the political shifts, so that the two can be read side by side. The page does not test causation; it lines up series so you can see what moved together and what did not.</p>
 
 <h2>How the spectrum is defined</h2>
 <p>Brazil has no official left–right classification of parties, and the parties themselves change position over time: PL was an unremarkable centrão party until Bolsonaro joined it in 2021; PP was Paulo Maluf's hard right in the 1990s and the archetypal centrão party by 2014. So the mapping is by <em>party and period</em>, not by party alone. Seven bins are used:</p>
@@ -525,7 +525,7 @@ __SRCLIST__
 
 PT = f"""
 <h2>O que esta página mostra</h2>
-<p>A participação de cada família ideológica nas cadeiras da Câmara dos Deputados, em todas as eleições desde a redemocratização (1990–2026) e, a partir de 1998, em cada bancada estadual. Abaixo da composição ficam os indicadores sociais e econômicos mais usados para explicar as mudanças políticas, para que as duas coisas possam ser lidas lado a lado. A página não testa causalidade; alinha séries para que se veja o que se moveu junto e o que não se moveu.</p>
+<p>A participação de cada família ideológica nas cadeiras da Câmara dos Deputados, em todas as eleições desde a redemocratização (1990–2026), no país e em cada bancada estadual. Abaixo da composição ficam os indicadores sociais e econômicos mais usados para explicar as mudanças políticas, para que as duas coisas possam ser lidas lado a lado. A página não testa causalidade; alinha séries para que se veja o que se moveu junto e o que não se moveu.</p>
 
 <h2>Como o espectro é definido</h2>
 <p>O Brasil não tem classificação oficial dos partidos no eixo esquerda–direita, e os partidos mudam de posição ao longo do tempo: o PL era um partido comum do centrão até Bolsonaro se filiar em 2021; o PP era a direita dura de Paulo Maluf nos anos 1990 e o partido-símbolo do centrão em 2014. Por isso o mapeamento é por <em>partido e período</em>, não apenas por partido. Usam-se sete faixas:</p>
@@ -601,7 +601,7 @@ __SRCLIST__
 method = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><script>(function(){{try{{var q=new URLSearchParams(location.search);var t=q.get('theme'),l=q.get('lang'),h=q.get('house');if(h)localStorage.setItem('house',h);document.documentElement.setAttribute('data-theme',t==='dark'?'dark':'light');document.documentElement.lang=l==='pt'?'pt':'en';}}catch(e){{}}}})();</script>
 {meta("methodology","Methodology")}<style>{CSS}</style></head><body>
 {header('method')}
-<main class="doc"><div data-lang="en">{nodash(EN,"en")}</div><div data-lang="pt">{nodash(PT,"pt")}</div></main>
+<main class="doc">{CTLS}<div data-lang="en">{nodash(EN,"en")}</div><div data-lang="pt">{nodash(PT,"pt")}</div></main>
 <footer class="foot"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></footer>
 <script>{I18N_JS}applyStrings();</script></body></html>"""
 (ROOT/"methodology.html").write_text(method.replace("__SRCLIST__", SRCLIST), encoding="utf-8")
@@ -625,7 +625,7 @@ pol_page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta 
 .erah{{margin:22px 0 4px;font-size:14px;font-weight:500}}.erah span{{color:#777;font-weight:400}}
 </style></head><body>
 {header('politicians')}
-<main class="doc" style="max-width:1200px">
+<main class="doc" style="max-width:1200px">{CTLS}
 <h2 data-i="pol_h"></h2><p class="cap" data-i="pol_intro"></p>
 <div class="filters">
 <div><strong data-i="f_year"></strong><div class="chips" id="year-chips"></div></div>
@@ -764,6 +764,7 @@ compare = f"""<!doctype html><html lang="pt"><head><meta charset="utf-8"><meta n
 {meta("compare","Compare states (and Brazil)")}<script src="assets/chart.umd.js"></script><style>{CSS}{CMP_CSS}</style></head><body>
 {header('compare')}
 <main>
+{CTLS}
 <div class="intro" style="text-align:center"><strong data-i="cmp_h"></strong><br><span data-i="cmp_intro"></span></div>
 <div class="tabs" style="justify-content:center"><button class="tab" data-h="camara" onclick="setHouse('camara')" data-i="tab_camara"></button><button class="tab" data-h="senado" onclick="setHouse('senado')" data-i="tab_senado"></button></div>
 <div class="lg" id="speclg" style="justify-content:center"></div>
