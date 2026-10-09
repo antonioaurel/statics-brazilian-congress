@@ -4,7 +4,7 @@
 :root{--ink:#1e1e1c;--mut:#777;--line:#e5e5e2;--bg:#fff;--card:#f7f7f5;--acc:#2a78d6;--grid:rgba(128,128,128,.18)}
 :root[data-theme=dark]{--acc:#5b9bf0;--ink:#ecebe6;--mut:#9b9a93;--line:#2e2e2b;--bg:#161615;--card:#1f1f1d;--grid:rgba(200,200,200,.14)}
 body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;margin:0;color:var(--ink);background:var(--bg);line-height:1.5}
-header{background:var(--bg);border-bottom:1px solid var(--line);padding:14px 24px 12px;display:flex;flex-direction:column;gap:12px}.hrow1{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}.tblock{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.byline{font-size:12px;color:var(--mut);margin:2px 0 6px;opacity:.8}.byline a{color:inherit;text-decoration:none}.byline a:hover{text-decoration:underline}.subt{font-size:14px;color:var(--mut)}.themebtn{font-size:14px;padding:8px 16px;margin-top:6px;border-width:1.5px}.tabsnav{justify-content:center;flex-wrap:wrap}.tabsnav .btn{text-align:center;font-size:14px;padding:8px 14px}.hrow3{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap}.hrow3:empty{display:none}
+header{background:var(--bg);border-bottom:1px solid var(--line);padding:14px 24px 12px;display:flex;flex-direction:column;gap:12px}.hrow1{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}.tblock{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.byline{font-size:12px;color:var(--mut);margin:8px 0 0;opacity:.8}.byline a{color:inherit;text-decoration:none}.byline a:hover{text-decoration:underline}.subt{font-size:14px;color:var(--mut)}.themebtn{font-size:14px;padding:8px 16px;margin-top:6px;border-width:1.5px}.tabsnav{justify-content:center;flex-wrap:wrap}.tabsnav .btn{text-align:center;font-size:14px;padding:8px 14px}.hrow3{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap}.hrow3:empty{display:none}
 header h1{font-size:20px;font-weight:600;margin:0}select{font-size:14px;padding:6px 10px}
 .btn{font-size:13px;padding:5px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);cursor:pointer;color:var(--ink);text-decoration:none;white-space:nowrap}
 .btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}.sp{flex:1}
@@ -34,7 +34,7 @@ table{border-collapse:collapse;font-size:12px;width:100%}th,td{padding:6px 6px;b
 .pol .c{border:1px solid var(--line);border-radius:10px;padding:14px 16px;border-top:4px solid;background:var(--card);display:flex;flex-direction:column;justify-content:center;text-align:center}.pol .n{font-size:16px;font-weight:500}.pol .p{font-size:12px;color:var(--mut);margin-bottom:6px}.pol .c p{font-size:13px;margin:6px 0}
 [data-lang]{display:none}html[lang=en] [data-lang=en],html[lang=pt] [data-lang=pt]{display:block}
 </style></head><body>
-<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div><div class="byline"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div><button class="btn themebtn" id="theme" onclick="toggleTheme()"></button></div>
+<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div><button class="btn themebtn" id="theme" onclick="toggleTheme()"></button></div>
 <span class="langs"><button class="btn" id="lang-pt" onclick="setLang('pt')">Português</button><button class="btn" id="lang-en" onclick="setLang('en')">English</button></span>
 <label id="regionlbl" style=""><span data-i="region"></span>: <select id="uf"></select></label>
 </div>
@@ -42,7 +42,7 @@ table{border-collapse:collapse;font-size:12px;width:100%}th,td{padding:6px 6px;b
 <div class="hrow3"><span id="sub" class="cap"></span></div></header>
 <script>(function(){var r=document.getElementById('regionlbl');var h=document.querySelector('.hrow3');if(r&&h&&r.style.display!=='none')h.insertBefore(r,h.firstChild);})();</script>
 <main>
-<div class="intro"><strong data-i="intro_h"></strong><br><span data-i="intro"></span></div>
+<div class="intro"><strong data-i="intro_h"></strong><br><span data-i="intro"></span><div class="byline"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div></div>
 <div class="cols">
 <div>
 <div class="tabs"><button class="tab" data-h="camara" onclick="setHouse('camara')" data-i="tab_camara"></button><button class="tab" data-h="senado" onclick="setHouse('senado')" data-i="tab_senado"></button></div>
