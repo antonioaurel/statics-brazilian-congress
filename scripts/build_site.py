@@ -168,7 +168,7 @@ CSS = """
 :root[data-theme=dark]{--acc:#5b9bf0;--ink:#ecebe6;--mut:#9b9a93;--line:#2e2e2b;--bg:#161615;--card:#1f1f1d;--grid:rgba(200,200,200,.14)}
 body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;margin:0;color:var(--ink);background:var(--bg);line-height:1.5}
 header{background:var(--bg);border-bottom:1px solid var(--line);padding:14px 24px 12px;display:flex;flex-direction:column;gap:12px}.hrow1{display:grid;grid-template-columns:1fr auto;grid-template-areas:"t l" "th .";align-items:start;gap:10px 16px}.hrow1 .tblock{grid-area:t}.hrow1 .langs{grid-area:l}.hrow1 .ctl-theme{grid-area:th;justify-self:start}.hrow1 label#regionlbl{grid-column:1/-1}
-.seg{display:inline-flex;align-items:stretch;border:0;border-radius:999px;overflow:hidden;background:var(--card);padding:3px;gap:2px}.seg button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:12.6px;font-weight:600;padding:7px 12.5px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;min-height:34px}.ctlrow{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:0 0 14px}.seg button{border-radius:999px}.seg button.on{background:var(--acc);color:#fff}.seg button:not(.on):hover{background:var(--line)}.segic{display:inline-flex;align-items:center;padding:0 4px 0 12px;color:var(--acc)}.tblock{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.byline{font-size:12px;color:var(--mut);margin:8px 0 0;opacity:.8}.byline a{color:inherit;text-decoration:none}.byline a:hover{text-decoration:underline}.subt{font-size:14px;color:var(--mut)}.tabsnav{justify-content:center;flex-wrap:wrap}.tabsnav .btn{text-align:center;font-size:14px;padding:8px 14px}.hrow3{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap}.hrow3:empty{display:none}
+.seg{display:inline-flex;align-items:stretch;border:0;border-radius:999px;overflow:hidden;background:var(--card);padding:3px;gap:2px}.seg button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:12.6px;font-weight:600;padding:7px 12.5px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;min-height:34px}.ctlrow{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:0 0 14px}.seg button{border-radius:999px}.seg button.on{background:var(--acc);color:#fff}.seg button:not(.on):hover{background:var(--line)}.segic{display:inline-flex;align-items:center;padding:0 4px 0 12px;color:var(--acc)}.tblock{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.byline{font-size:12px;color:var(--mut);margin:0;opacity:.8}.byline a{color:inherit;text-decoration:none}.byline a:hover{text-decoration:underline}.subt{font-size:14px;color:var(--mut)}.tabsnav{justify-content:center;flex-wrap:wrap}.tabsnav .btn{text-align:center;font-size:14px;padding:8px 14px}.hrow3{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap}.hrow3:empty{display:none}
 header h1{font-size:20px;font-weight:600;margin:0}select{font-size:14px;padding:6px 10px}
 .btn{font-size:13px;padding:5px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);cursor:pointer;color:var(--ink);text-decoration:none;white-space:nowrap}
 .btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}.sp{flex:1}
@@ -215,7 +215,7 @@ CTLS = '<div class="ctlrow"><div class="seg ctl-theme" role="group" aria-label="
 def header(active):
     def nav(page, key):
         return f'<a class="btn{" on" if active==page or (active=="method" and page=="methodology") else ""}" href="{page}.html" data-i="{key}"></a>'
-    return f"""<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div></div>
+    return f"""<header><div class="hrow1"><div class="tblock"><h1 data-i="title"></h1><div class="subt" data-i="subtitle"></div><div class="byline"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div></div>
 <label id="regionlbl" style="{'' if active=='index' else 'display:none'}"><span data-i="region"></span>: <select id="uf"></select></label>
 </div>
 <nav class="tabsnav">{nav('index','nav_data')}{nav('compare','nav_cmp')}{nav('explore','nav_exp')}{nav('politicians','nav_pol')}{nav('methodology','nav_method')}</nav>
@@ -321,7 +321,7 @@ index = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta nam
 {header('index')}
 <main>
 {CTLS}
-<div class="intro"><strong data-i="intro_h"></strong><br><span data-i="intro"></span><div class="byline"><a href="https://antonioaurel.github.io/" target="_blank" rel="noopener">antonioaurel.github.io</a></div></div>
+<div class="intro"><strong data-i="intro_h"></strong><br><span data-i="intro"></span></div>
 <div class="cols">
 <div>
 <div class="tabs"><button class="tab" data-h="camara" onclick="setHouse('camara')" data-i="tab_camara"></button><button class="tab" data-h="senado" onclick="setHouse('senado')" data-i="tab_senado"></button></div>
